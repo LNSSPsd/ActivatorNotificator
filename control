@@ -1,0 +1,9 @@
+Package: com.lns.notificator
+Name: ActivatorNotificator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A simple listener for the libactivator API!
+Maintainer: LNSSPsd
+Author: LNSSPsd
+Section: Addons (Activator)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), firmware (>= 7.0)
